@@ -6,3 +6,4 @@ class Dice:
 
 a=Dice()
 print(a.roll())
+
